@@ -1,0 +1,50 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 0.3px;
+  color: #5f646b;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-top: 0px;
+  color: #23262a;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+h1 {
+  font-size: 43px;
+}
+
+h2 {
+  font-size: 33px;
+}
+
+h3 {
+  font-size: 26px;
+}
+
+h4 {
+  font-size: 21px;
+}
+
+a {
+  color: #23262a;
+  font-weight: 400;
+  -webkit-transition: 0.3s color;
+  transition: 0.3s color;
+}
+
+a:hover, a:focus {
+  text-decoration: none;
+  outline: none;
+  color: #83ba09;
+}
+
+ul, ol {
+  margin: 0;
+  padding: 0;
+  list-style: none
+}
